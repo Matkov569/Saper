@@ -1,0 +1,9 @@
+﻿  funlist.cpp
+C:\Users\Mateusz\source\repos\SaperCMD\funlist.cpp(515,29): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Mateusz\source\repos\SaperCMD\funlist.cpp(518,25): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Mateusz\source\repos\SaperCMD\funlist.cpp(527,29): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Mateusz\source\repos\SaperCMD\funlist.cpp(530,25): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Mateusz\source\repos\SaperCMD\funlist.cpp(564,29): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Mateusz\source\repos\SaperCMD\funlist.cpp(567,25): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Mateusz\source\repos\SaperCMD\funlist.cpp(583,29): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Mateusz\source\repos\SaperCMD\funlist.cpp(586,25): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
